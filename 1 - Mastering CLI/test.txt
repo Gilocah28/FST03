@@ -1,0 +1,85 @@
+*Create New folder   /  Make Directory*
+
+*Sample*
+
+mkdir "1 - Mastering CLI”
+
+mkdir "2 - Git and GitHub”
+
+mkdir "3 - HTML”
+
+mkdir "4 - CSS Basics”
+
+mkdir "5 - Intermediate CSS”
+
+mkdir "6 - JavaScript”
+
+mkdir "7 - DOM Manipulation”
+
+mkdir "8 - Task Manager App”
+
+*Clear all in bash / CLI*
+
+clear
+
+*Remove Directory*
+
+rmdir test
+
+*Show all directory*
+
+Ls 
+
+*See Current Directory*
+
+pwd
+
+*Go To Directory*
+
+cd
+
+*Return Directory*
+
+cd ..
+
+*Create file or new file*
+
+touch test.txt
+
+*Remove file*
+
+rm test.txt
+
+*Login GitHub account*
+
+git config --global [user.name](http://user.name/) "username"
+
+*See your git user name*
+
+git config [user.name](http://user.name/)
+
+git config --global user.email "email”
+
+*See the Email*
+
+git config [user.](http://user.name/)email
+
+*initialize the repo*
+
+git init
+
+*Meaning of  U in Git in VsCode*
+
+U - Untracked
+
+*Checked the Status*
+
+git status
+
+Add file in Staging Area
+
+git add test.txt
+
+Add all file in Staging Area
+
+git add .
